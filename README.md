@@ -1,2 +1,2 @@
 # Image-editor
- Desktop app for image editing built with C# and C++
+ Desktop app for image editing written in C# and C++
