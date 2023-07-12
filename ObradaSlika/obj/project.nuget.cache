@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qk2BCNAuq5R0EgeyIOeNxqT/qQ1W/Sgduqur6XlKAcBXHiUYaZU7f03GqE7JYX/g2AcYK5AqchQxr3KjNqYZRw==",
+  "success": true,
+  "projectFilePath": "D:\\Multimedijalni sistemi\\Obrada slika\\ObradaSlika\\ObradaSlika\\ObradaSlika.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\craft\\.nuget\\packages\\maikebing.system.windows.forms.datavisualization\\5.0.1\\maikebing.system.windows.forms.datavisualization.5.0.1.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\craft\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

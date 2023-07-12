@@ -1,0 +1,58 @@
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.exe
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.deps.json
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.runtimeconfig.json
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.runtimeconfig.dev.json
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.dll
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ref\ObradaSlika.dll
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.pdb
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.AssemblyReference.cache
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.Form1.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.GenerateResource.cache
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.AssemblyInfoInputs.cache
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.AssemblyInfo.cs
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.CoreCompileInputs.cache
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.dll
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ref\ObradaSlika.dll
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.pdb
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.genruntimeconfig.cache
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.ColorInputDialog.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.Properties.Resources.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.MeanRemovalDialog.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.EdgeDetectHomogenityDialog.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.SettingsDialog.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.CopyComplete
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.HistogramCutting_Dialog.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.CrossDomainColorize_Dialog.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.SelectChannel_Dialog.resources
+C:\Users\Andrija\Desktop\Fax\8. semestar\Multimedijalni sistemi\Projekti\Obrada slika\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.HuffmanCoding_Dialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.exe
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.deps.json
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.runtimeconfig.json
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.runtimeconfig.dev.json
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.dll
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\ObradaSlika.pdb
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\bin\Debug\net5.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.AssemblyReference.cache
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.ColorInputDialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.CrossDomainColorize_Dialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.EdgeDetectHomogenityDialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.Form1.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.HistogramCutting_Dialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.HuffmanCoding_Dialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.MeanRemovalDialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.Properties.Resources.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.SelectChannel_Dialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.SettingsDialog.resources
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.GenerateResource.cache
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.AssemblyInfoInputs.cache
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.AssemblyInfo.cs
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.CoreCompileInputs.cache
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.csproj.CopyComplete
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.dll
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\refint\ObradaSlika.dll
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.pdb
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ObradaSlika.genruntimeconfig.cache
+C:\Users\craft\Desktop\ObradaSlika\ObradaSlika\obj\Debug\net5.0-windows\ref\ObradaSlika.dll

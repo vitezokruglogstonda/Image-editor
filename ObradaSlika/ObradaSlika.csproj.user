@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ColorInputDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CrossDomainColorize_Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EdgeDetectHomogenityDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HistogramCutting_Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HuffmanCoding_Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MeanRemovalDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectChannel_Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
